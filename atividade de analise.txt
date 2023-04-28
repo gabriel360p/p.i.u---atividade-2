@@ -1,0 +1,20 @@
+Alunos: Gabriel Costa e Maria Eduarda Ribeiro.
+
+Affordance:
+° Na tela 1, pode-se observar esse conceito já que colocamos propositalmente a barra de pesquisa sem nenhum texto informativo dentro dela de "pesquise aqui", pois a própria barra de pesquisa pelas experiências vividas pelo usuário, já remetem a essa idéia de que se usa uma barra de pesquisa para pesquisar. Além disso, o uso do ícone da lupa também remete a esse entendimento da pesquisa.
+° Ainda na tela 1, se tem o icone de perfil de usuário, o fato do cursor mudar ao ser colocado encima do icone remete a idéia de ser clicavel sem a necessidade de textos informativos.
+
+Metáfora:
+° Em ambas as telas, temos o ícone da lupa na barra de pesquisa que remete a ideia de buscar algo, já que isso é algo familiar ao usuário baseado não só em sua experiência com sites, mas também considerando a sua experiência de mundo.
+° O ícone do microfone transmite a ideia parecida com a da lupa, já que um microfone passa a intuição de falar algo.	  
+
+IHC:
+° Visto todo o design pensado e projetado, se tem uma boa experiência.
+
+Arquitetura da Informação:
+° Como o objetivo do site é para fazer pesquisas, uma decisão que facilita a compreensão do usuário em relação a isso é colocar a barra de pesquisa no centro da página, para assim facilitar e melhorar a experiência do usuário, que tem como objetivo realizar pesquisas.
+° Na tela2, a decisão de organizar as informações de "imagens, vídeos e mapas", abaixo da barra de pesquisa também é algo que se encaixa nesse conceito, já que a colocação dessas informações localizadas dessa forma melhora a experiência de usuário levando em consideração que ele não está apenas em busca de textos sobre o assunto pesquisado.
+
+Visual Design:
+° O design está agradavel pelo fato da paleta de cores de branco e azul terem sido escolhidos como uma proposta mais minimalista para o site, em que o fundo branco (que é uma cor básica) foi escolhida para não tirar o foco principal do site, que é a pesquisa, o que não iria acontecer se tivesse sido escolhido uma cor muito forte, já que iria chamar mais atenção para o fundo do que para barra de pesquisa, por isso a escolha de uma cor clara para o fundo, dando foco a barra de pesquisa no centro com auxílio do sombreamento, que acreditamos também ser um aspecto que torna o design mais bonito visualmente.
+° A escolha do posicionamento dos anúncios também foi pensado como uma forma de deixar a página mais atrativa visualmente, já que foram colocados na parte de baixo da barra de pesquisa, e não tanto com aspecto de poluição da página, que ficaria se tivesse sido colocado ao lado.
